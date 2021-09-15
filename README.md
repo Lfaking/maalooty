@@ -5,11 +5,11 @@
 <a href="#"><img title="maalooty" src="https://img.shields.io/badge/maalooty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Lfahermit"><img title="Author" src="https://img.shields.io/badge/Author-Lfahermit/maalooty?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Lfaking"><img title="Author" src="https://img.shields.io/badge/Author-Lfaking/maalooty?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Lfahermit">Lfahermit</a> to make it public
+Project created by <a href="https://github.com/Lfaking">Lfaking</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Lfahermit">Lfahermit</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Lfahermit/maalooty">
-    <img src="https://img.shields.io/github/repo-size/Lfahermit/maalooty?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Lfaking/maalooty">
+    <img src="https://img.shields.io/github/repo-size/Lfaking/maalooty?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Lfahermit/followers"><img title="Followers" src="https://img.shields.io/github/followers/Lfahermit?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Lfahermit/maalooty/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Lfahermit/maalooty?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Lfahermit/maalooty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Lfahermit/maalooty?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Lfahermit/maalooty/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Lfahermit/maalooty?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Lfaking/followers"><img title="Followers" src="https://img.shields.io/github/followers/Lfaking?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Lfaking/maalooty/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Lfaking/maalooty?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Lfaking/maalooty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Lfaking/maalooty?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Lfaking/maalooty/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Lfaking/maalooty?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/Lfahermit">Lfahermit</a> to make 
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lfahermit&show_icons=true&theme=nightowl" alt="Lfahermit" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lfaking&show_icons=true&theme=nightowl" alt="Lfaking" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lfahermit&theme=nightowl" alt="Lfahermit" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lfaking&theme=nightowl" alt="Lfaking" /></p>
 </details> </div>
 
 
@@ -59,7 +59,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lfahermit/maalooty.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lfaking/maalooty.git)
      </div>
 <br>
 <br >
@@ -74,7 +74,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Lfahermit/maalooty
+$ git clone https://github.com/Lfaking/maalooty
 $ cd maalooty
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -84,7 +84,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Lfahermit/maalooty
+$ git clone https://github.com/Lfaking/maalooty
 $ cd maalooty
 $ chmod +x *
 $ npm i
@@ -105,9 +105,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Lfahermit](https://github.com/Lfahermit.png?size=100)](https://github.com/Lfahermit) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![Lfaking](https://github.com/Lfaking.png?size=100)](https://github.com/Lfaking) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[Lfahermit](https://github.com/Lfahermit)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[Lfaking](https://github.com/Lfaking)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
